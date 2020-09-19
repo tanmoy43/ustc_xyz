@@ -17828,7 +17828,7 @@ table.tablesorter thead tr .headerSortDown {
 
 .main-panel>.content {
   margin-top: 100px;
-  /* padding: 78px 30px 30px 280px; */
+  padding: 78px 30px 30px 280px;
   min-height: calc(100vh - 70px);
 }
 
