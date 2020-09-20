@@ -17825,7 +17825,7 @@ table.tablesorter thead tr .headerSortDown {
 .main-panel[data="primary"] {
   border-top: 2px solid #e14eca;
 }
-.login-row{
+.login_reg-row{
   margin-top: 100px;
   padding: 0;
 }
